@@ -264,6 +264,10 @@ export default function CheckoutPage() {
                   </Button>
                 </a>
               </div>
+              <p className="text-xs text-muted-foreground mt-4">
+                Asani se pay kar sakte hain — payment details WhatsApp /
+                email par share ki jayengi.
+              </p>
             </form>
 
             {/* Order Summary */}

@@ -1,6 +1,6 @@
 "use client";
 
-import { Truck, Shield, Clock } from "lucide-react";
+import { Truck, Shield, Clock, CreditCard } from "lucide-react";
 
 const features = [
   {
@@ -17,6 +17,11 @@ const features = [
     icon: Clock,
     title: "24/7 Support",
     description: "WhatsApp & Email support anytime",
+  },
+  {
+    icon: CreditCard,
+    title: "Easy Payment",
+    description: "Asani se pay kar sakte hain – simple & secure payment",
   },
 ];
 

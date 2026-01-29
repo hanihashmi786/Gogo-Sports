@@ -220,7 +220,10 @@ export default function CartPage() {
                       </Button>
                     </a>
                   </div>
-
+                  <p className="text-xs text-muted-foreground text-center mt-4">
+                    Asani se pay kar sakte hain — payment details WhatsApp par
+                    share ki jayengi.
+                  </p>
                 </div>
               </div>
             </div>
