@@ -21,7 +21,7 @@ const features = [
   {
     icon: CreditCard,
     title: "Easy Payment",
-    description: "Asani se pay kar sakte hain – simple & secure payment",
+    description: "Simple & Secure payment",
   },
 ];
 
